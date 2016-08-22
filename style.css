@@ -1,0 +1,48 @@
+#title {
+  text-align: center;
+  font-size: 7em;
+  margin: 0;
+  font-weight: bolder;
+  color: #ff6978;
+}
+
+#col {
+  float:left;
+  margin:10;
+  width:31.5%;
+  border-width: 1/2vh;
+  border-style: solid
+}
+
+#map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+body {
+  color: #ff6978;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+h1 {
+  text-align: center;
+  border-spacing: ;
+  border-bottom-style: solid;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-width:4px;
+}
+
+p {
+  font-size: 20;
+  padding: 0 30 0 30;
+  color: #545454;
+}
